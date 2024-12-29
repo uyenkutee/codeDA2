@@ -6,6 +6,9 @@ Bước 1: cài các thư viện liên quan
 
 ```bash
 pip install numpy cvxpy matplotlib
+```
 Bước 2: Chạy lệnh
+
+```bash
 python + tên file
 
